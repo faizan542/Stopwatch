@@ -1,0 +1,39 @@
+body{
+    background-color: darkgrey;
+    text-align: center;
+    background-image: url(stop\ watch\ img3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.heading{
+    text-align: center;
+    color: aqua;
+    font-size: 90px;
+}
+h1{
+    display: inline-block;
+    width: 80px;
+    color: blanchedalmond;
+    font-size: 80px;    
+    margin-right: 50px;
+}
+button{
+    color: white;
+    background: linear-gradient(to right ,gray,blue);
+    height: 30px;
+    width: 80px;
+    cursor: pointer;
+    text-align: center;
+    margin: 0px 6px 0px 6px;
+    border-radius: 30px;
+
+}
+.copyright {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+
+}
